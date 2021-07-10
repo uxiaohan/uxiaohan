@@ -1,6 +1,6 @@
 ## Hey, Look here! :wave: 
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?theme=material-palenight&username=uxiaohan&show_icons=true&hide_title=true" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uxiaohan&show_icons=true&hide_title=true" />
 
 I'm Han, a office worker from HangZhou, China. I ❤️ code
 
