@@ -16,8 +16,8 @@ I'm Han, a office worker from HangZhou, China. I ❤️ code
 
 <!--START_SECTION:waka-->
 ```text
-React         2 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.76 % 
-Vue           2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 % 
+Vue         2 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.76 % 
+React           2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 % 
 Markdown      42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 Javascript    32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 css           26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
