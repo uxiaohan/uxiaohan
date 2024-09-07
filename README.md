@@ -1,25 +1,36 @@
-## Hey, Look here! :wave: 
+### Hi there, I'm Han 👋
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uxiaohan&show_icons=true&hide_title=true" />
+<pre>
+奋斗的目标就是为了躺平，为了过上不被闹钟叫醒的日子。
+                                                -- 加油💪
+</pre>
 
-I'm Han, a office worker from HangZhou, China. I ❤️ code
+**About Me:** <img style="margin-left:6px" src="https://visitor-badge.laobi.icu/badge?page_id=uxiaohan.uxiaohan&right_color=green" align="center" alt="visitors">
 
--   :hammer_and_pick: CSS/HTML/JavaScript/Vue/Typescript/React/PHP
--   :package: Building 
--   :pencil2: VS Code / Notepad++ / Navicat
--   :seedling: Prepare to study advanced web front end development
--   :man: Pronouns: he/him
--   :thinking: Constantly make yourself better
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
+|   主&emsp;页   | <https://www.4ce.cn>                                      |
+| :------------: | :------------------------------------------------------- |
+| **博&emsp;客** | **<https://www.vvhan.com>**                            |
+|**Web&emsp;API**| **<https://api.vvhan.com>**          |
+| **Cloudflare优选** | **<https://cf.vvhan.com>** |
 
-#### :bar_chart:  Weekly development breakdown
+**Languages:**
 
-<!--START_SECTION:waka-->
-```text
-Vue           2 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.76 % 
-React         2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 % 
-Markdown      42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Javascript    32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-css           26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-```
-<!--END_SECTION:waka-->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
+
+**Frameworks and Tools:**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
+![Less](https://img.shields.io/badge/Less-CC6699?logo=Less&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+
+**GitHub Stats:**
+
+![Han's Github Stats](https://github-readme-stats.vercel.app/api?username=uxiaohan&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaohan&layout=compact)
