@@ -7,7 +7,7 @@
 
 **About Me:** <img style="margin-left:6px" src="https://visitor-badge.laobi.icu/badge?page_id=uxiaohan.uxiaohan&right_color=green" align="center" alt="visitors">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+<img src="https://raw.githubusercontent.com/uxiaohan/uxiaohan/main/code-boy.webp" width="260" align="right" alt="Code Boy">
 
 |   主&emsp;页   | <https://www.4ce.cn>                                      |
 | :------------: | :------------------------------------------------------- |
