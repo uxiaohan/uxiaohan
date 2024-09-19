@@ -28,7 +28,7 @@
 ![Less](https://img.shields.io/badge/Less-CC6699?logo=Less&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
-![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=educative&logoColor=fff)
 
 **GitHub Stats:**
 
